@@ -24,8 +24,8 @@ So quick index
 13. dia3c6: Fibonacci usando for, while y do-while (Fibonacci using for, while and do-while loops)
 14. dia3c7: Cadenas de caracteres con el método equals (Strings using equals method)
 15. dia3c8: Manipulación de cadenas con los métodos length() & substring() (Strings manipulation using length() and substring() methods)
-16. dia3c9: Arreglos unidimensionales (Vectores) (Arrays)
-17.
+16. dia3c9: Arreglos unidimensionales (Vectores) (One-dimensional arrays)
+17. dia 3c10: Arreglos unidimensionales (Vectores dinámicos) (One-dimensional arrays (dynamic arrays))
 18.
 19.
 20.
