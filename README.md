@@ -3,7 +3,7 @@ Ok so let's explain almost every file here, I'll try to keep this README updated
 
 So first of all I'm trying to learn java basics in 5-6 days with this youtube playlist https://youtube.com/playlist?list=PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB
 then I'll move on onto this one that is more advanced https://youtube.com/playlist?list=PLyvsggKtwbLXEZjb8HrNTbWesTKIfpNak
-maybe I can't make it in 10 days more or less
+maybe I can make it in 10 days more or less
 
 Quick explanatory
 "Dia" stands for Day in spanish and "C" is for abbreviating "Class"
