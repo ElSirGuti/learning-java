@@ -1,4 +1,4 @@
-// Tercer Día Clase 2 3-10-22
+// Tercer Día Clase 3 3-10-22
 
 // Ciclos o Bucles (Estructura repetitiva while)
 
