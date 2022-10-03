@@ -21,4 +21,4 @@ So quick index
 10. dia3c3: Ciclos o Bucles (Estructura repetitiva while) (Loops using while)
 11. dia3c4: Estructura básica de "Do While" (Basic structure "Do While")
 12. dia3c5: Series numericas utilizando las estructuras repetitivas for, while y do-while (Numerical series using for, while, do-while loops)
-13. dia3c6:
+13. dia3c6: Fibonacci usando for, while y do-while (Fibonacci using for, while and do-while loops)
