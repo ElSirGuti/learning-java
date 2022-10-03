@@ -36,7 +36,7 @@ public class dia3c7 {
         System.out.println("Introduce el segundo nombre: ");
         nombre_2 = entrada.nextLine();
 
-        if(nombre_2.equals(nombre_1)){
+        if(nombre_2.equalsIgnoreCase(nombre_1)){
             System.out.println("Los nombres son iguales");
         }else{
             System.out.println("Los nombres son diferentes");
