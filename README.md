@@ -7,8 +7,18 @@ maybe I can make it in 10 days more or less
 
 Quick explanatory
 "Dia" stands for Day in spanish and "C" is for abbreviating "Class"
-so "dian" means Day N and "cn" means "Class N" (N is any number)
+so "dian" means Day N and "cn" means "Class N" (N is any number).
 So quick index
 1. dia1c1: Hola Mundo (Hello World)
 2. dia1c2: Tipos de Datos y Variables (Data Type and Variables)
 3. dia2c1: Operadores aritméticos y prioridad de los signos (Arithmetic Operators and Sign Priority)
+4. dia2c2: Estructuras condicionales if-else (Conditional structures if-else)
+5. dia2c3: Estructuras condicionales anidadas con if-else (Nested conditional structures with if-else)
+6. dia2c4: Como introducir datos desde teclado con Scanner (How to enter data from the keyboard using Scanner)
+7. dia2c5: Condiciones compuestas con operadores lógicos & relacionales (Conditions with logical & relational operators)
+8. dia3c1: Estructuras de control (Switch - Case) (Control structures switch-case)
+9. dia3c2: Ciclos o Bucles (Estructura repetitiva for) (Loops using for)
+10. dia3c3: Ciclos o Bucles (Estructura repetitiva while) (Loops using while)
+11. dia3c4: Estructura básica de "Do While" (Basic structure "Do While")
+12. dia3c5: Series numericas utilizando las estructuras repetitivas for, while y do-while (Numerical series using for, while, do-while loops)
+13. dia3c6:
