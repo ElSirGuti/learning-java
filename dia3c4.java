@@ -19,6 +19,6 @@ public class dia3c4 {
         do{
             System.out.print(i + ", ");
             i-=200;
-        }while(i>+0);
+        }while(i>=0);
     }
 }
