@@ -1,4 +1,4 @@
-// Cuarto Día Clase 1 4-10-22
+// Cuarto Día Clase 2 4-10-22
 
 // Arreglos bidimensionales (Matrices dinámicas)
 
