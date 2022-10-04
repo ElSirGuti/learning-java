@@ -25,7 +25,7 @@ So quick index
 14. dia3c7: Cadenas de caracteres con el método equals (Strings using equals method)
 15. dia3c8: Manipulación de cadenas con los métodos length() & substring() (Strings manipulation using length() and substring() methods)
 16. dia3c9: Arreglos unidimensionales (Vectores) (One-dimensional arrays)
-17. dia 3c10: Arreglos unidimensionales (Vectores dinámicos) (One-dimensional arrays (dynamic arrays))
-18.
-19.
+17. dia3c10: Arreglos unidimensionales (Vectores dinámicos) (One-dimensional arrays (dynamic arrays))
+18. dia4c1: Arreglos bidimensionales (Matrices) (Two-dimensional arrays)
+19. 
 20.
