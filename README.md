@@ -28,7 +28,7 @@ So quick index
 17. dia3c10: Arreglos unidimensionales (Vectores dinámicos) (One-dimensional arrays (dynamic arrays))
 18. dia4c1: Arreglos bidimensionales (Matrices) (Two-dimensional arrays)
 19. dia4c2: Arreglos bidimensionales (Matrices dinámicas) (Two-dimensional arrays (dynamic arrays))
-20. dia4c3:
+20. dia4c3: Interfaces gráficas (Librería swing) (GUI (Swing library)
 21.
 22.
 23.
