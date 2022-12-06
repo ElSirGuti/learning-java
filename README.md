@@ -30,7 +30,7 @@ So quick index
 19. dia4c2: Arreglos bidimensionales (Matrices dinámicas) (Two-dimensional arrays (dynamic arrays))
 20. dia4c3: Interfaces gráficas (Librería swing) (GUI (Swing library)
 21. final(folder/carpeta): Primer proyecto de la materia Algoritmos y Estructuras 1 (Arrays) (First project of the subject Algorithms and Structures 1 (Arrays))
-22. 
+22. Trabajo 2(folder/carpeta): Segundo proyecto de la materia Algoritmos y Estructuras 1 (Recursividad/Recursión) (First project of the subject Algorithms and Structures 1 (Recursion))
 23.
 24.
 25.
